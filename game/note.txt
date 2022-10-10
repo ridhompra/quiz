@@ -1,0 +1,8 @@
+-Case Selasa :
+Kita akan memasuki dunia game werewolf.
+ 1. Pada saat akan bermain anda diminta memasukkan nama dan peran
+ 2. Untuk memulai game pemain harus memasukkan variable nama dan peran.
+ 3. Jika pemain tidak memasukkan nama maka game akan mengeluarkan warning “Nama harus diisi!“.
+ 4. Jika pemain memasukkan nama tapi tidak memasukkan peran maka game akan mengeluarkan warning “Pilih Peranmu untuk memulai game“.
+ 5. Terdapat tiga peran yaitu penyihir, guard, dan werewolf.
+ 6. Tugas anda adalah membuat program untuk mengecek input dari pemain dan hasil response dari game sesuai input yang dikirimkan.
